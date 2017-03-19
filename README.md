@@ -18,6 +18,6 @@ How to build
 How to run
 * ... TODO
 
-Note: This is the first release of the tool, so please send any errors that you encounter or suggestions and questions about the tool to hanefimercan@sabanciuniv.edu
+Note: This is the first release of the tool, so please send any errors that you encounter or any suggestions and questions about the tool to hanefimercan@sabanciuniv.edu
 
 The paper about CHiP is currently under review, therefore we can not give more detail how the algorithm work and share the source code of the CHiP for the moment.
