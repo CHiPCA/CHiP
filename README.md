@@ -8,7 +8,7 @@ Configuration Spaces
 * A sample configuration space model as well as a set of configurations space models for benchmarking are provided.
 
 Dependencies
-* NVIDIA GPUs Tool uses CUDA programming model. So, without having NVIDIA GPUs and its driver, the code will not work.
+* An NVIDIA GPU device and CUDA programming model. 
 * Sugar: a SAT-based Constraint Solver, http://bach.istc.kobe-u.ac.jp/sugar/
 * ACTS, http://www.flossic.com/ACTS/
   
