@@ -31,8 +31,9 @@ How to build
 How to run
 * ./CHiP {fast|balanced|quality} sample.configModel sugarPath actsPath
 * Providing CHiP version is optional, default value is balanced.
-* sugarPath and actsPath are the path locations for the Sugar and ACTS, respectively.
+* sugarPath and actsPath are the directory paths of the Sugar and ACTS, respectively.
+* Sugar and ACTS should be renamed as sugar and acts, respectively.
 
 Note: This is the first release of the tool, so please send any errors that you encounter or any suggestions and questions about the tool to hanefimercan@sabanciuniv.edu
 
-The paper about CHiP is currently under review, therefore we can not give more detail how the algorithm work and share the source code of the CHiP for the moment.
+The paper about CHiP is currently under review, therefore we can not give detail about the algorithm and share the source code of the CHiP for the moment.
