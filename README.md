@@ -8,7 +8,7 @@ Configuration Spaces
 * A sample configuration space model as well as a set of configurations space models for benchmarking are provided.
 
 Dependencies
-* An NVIDIA GPU device and CUDA programming model. 
+* An NVIDIA GPU device and CUDA programming model. The device should have 32 threads in a warp (Old devices have 16 threads).
 * Sugar: a SAT-based Constraint Solver, http://bach.istc.kobe-u.ac.jp/sugar/
 * ACTS, http://www.flossic.com/ACTS/
   
