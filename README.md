@@ -18,7 +18,6 @@ After line 5, next lines describe the constraints if there exist any. Each 2 lin
   
 They indicate that the tuples (o1=0∧o2=1) and (o2=2∧o1=1∧o5=0) are forbidden to be appear in any configurations of computed covering array, i.e., they are invalid tuples.
 
-* Note that one can define other configuration space models with the same format.
 * A sample configuration space model as well as a set of configurations space models for benchmarking are provided.
 
 Dependencies
