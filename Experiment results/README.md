@@ -1,6 +1,6 @@
 Presented results in the paper.
 
-Missing tuples for single SA execution (missingTuplesForSingleSA.csv)
+Missing tuples for a single SA execution (missingTuplesForSingleSA.csv)
 * Section 3.6, Figure 2
 
 Coverage Measurement (coverageMeasurement.csv)
