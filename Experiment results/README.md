@@ -6,7 +6,7 @@ Missing tuples for a single SA execution (missingTuplesForSingleSA.csv)
 Coverage Measurement (coverageMeasurement.csv)
 * Section 4.2
 
-Sequential vs parallel-rowwise vs parallel-colwise (singleSA-seqVSpar.csv):
+Sequential vs parallel-rowwise vs parallel-colwise (singleSA_seq-vs-parCol-vs-parRow.csv):
 * Section 4.3
 
 Hybrid vs Nonhybrid (hybrid-vs-nonhybrid.csv):
