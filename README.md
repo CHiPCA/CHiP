@@ -21,6 +21,7 @@ Configuration Spaces
   They indicate that the tuples (o1=0∧o2=1) and (o2=2∧o1=1∧o5=0) are forbidden to be appear in any configurations of computed covering array, i.e., they are invalid tuples.
 
 * A sample configuration space model as well as a set of configurations space models for benchmarking are provided.
+* With a given configuration model, CHiP computes both a 2-way and a 3-way CA and reports the timings, seperately.
 
 Dependencies
 * CUDA programming model, https://developer.nvidia.com/. We tested CHiP with CUDA 5, therefore any version aobve that should be enough. The device also must support having 32 threads in a warp (old devices have 16 threads).
