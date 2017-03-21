@@ -16,13 +16,13 @@ All tool comparisons including CHiP (toolComparisons.csv)
 * Section 4.1 and 4.5
 
 
-NOTATIONS:
-k: number of options
-t: strength
-Qnum: number of constraints
-Qlevel: constraint level
-Qlength: length of a constraint
-time: execution time
-size: covering array size
-setup: alpha and beta values
+NOTATIONS:   
+k: number of options   
+t: strength   
+Qnum: number of constraints   
+Qlevel: constraint level   
+Qlength: length of a constraint   
+time: execution time   
+size: covering array size   
+setup: alpha and beta values   
 
