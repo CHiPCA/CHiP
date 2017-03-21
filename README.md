@@ -1,7 +1,7 @@
 
 CHiP: Configurable Hybrid Parallel Covering Array Constructor
 
-CHiP is a covering array constructor both uses CPU and GPU, specifically NVIDIA. The configurable name comes from the ability to construct covering arrays; faster (fast), having smaller size (quality) or between those options (balanced). CHiP lets the user to choose the any of these there versions. 
+CHiP is a covering array constructor both uses CPU and GPU (specifically NVIDIA GPU). The configurable name comes from the ability to construct covering arrays; faster (fast), having smaller size (quality) or between those options (balanced). CHiP lets the user to choose the any of these there versions. 
 
 Configuration Spaces
 * Configuration space models have the .configModel extension.
