@@ -34,8 +34,8 @@ How to build
 How to run
 * ./CHiP {fast|balanced|quality} sample.configModel sugarPath actsPath
 * Providing CHiP version is optional, default value is balanced.
-* sugarPath and actsPath are the paths of the Sugar and ACTS, respectively.
-E.g., 
+* sugarPath and actsPath are the paths of the Sugar and ACTS, respectively.  
+E.g.,   
 ./CHiP fast sample.configModel /some/path/acts.jar /some/path/sugar
 
 Note: This is the first release of the tool, so please send any errors that you encounter or any suggestions and questions about the tool to hanefimercan@sabanciuniv.edu
